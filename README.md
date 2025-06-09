@@ -13,4 +13,4 @@ This repository implements a Graph Neural Network (GNN) for collaborative filter
 ## Usage
 
 ```bash
-python main.py
+python pwgnncf.py
