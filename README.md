@@ -8,7 +8,7 @@ This repository implements a Graph Neural Network (GNN) for collaborative filter
 - Pairwise BPR loss for implicit feedback
 - Genre/category-based item features
 - Top-K recommendation generation
-- Modular dataset support (MovieLens, Yelp, Amazon)
+- Modular dataset support (Amazon-Beauty, Yelp, Gowalla, Epinions)
 
 ## Usage
 
