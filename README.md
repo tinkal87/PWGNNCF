@@ -1,6 +1,6 @@
 # Modeling Feature Contextualized Pair-Wise Item Interactions in Graph Neural Network for Collaborative Filtering
 
-This repository implements a Graph Neural Network (GNN) for collaborative filtering using pairwise item preferences and item-side features, tested on MovieLens, Yelp, and Amazon Beauty datasets.
+This repository implements a Graph Neural Network (GNN) for collaborative filtering using pairwise item preferences and item-side features, tested on Gowalla, Yelp, Epinions, and Amazon Beauty datasets.
 
 ## Features
 
